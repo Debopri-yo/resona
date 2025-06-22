@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Cache directory for downloaded images or data
+cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific (optional, depending on what you use)
+*.vscode/
+.idea/
+
