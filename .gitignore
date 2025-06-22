@@ -12,7 +12,3 @@ cache/
 .DS_Store
 Thumbs.db
 
-# IDE specific (optional, depending on what you use)
-*.vscode/
-.idea/
-
